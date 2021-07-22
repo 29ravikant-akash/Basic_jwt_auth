@@ -24,7 +24,7 @@ To achieve this: <br />
 
 ***2. verifying jwt(sending jwt from client to server)***  <br />
 
-Method 1: Works like a magic(simple and easy) <br />
+Method 1: work like a charm (successful or effective) <br />
 
 let token = localStorage.getItem("jwt"); <br />
 let decodedToken = jwt_decode(token); <br />
